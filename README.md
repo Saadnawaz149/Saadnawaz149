@@ -17,12 +17,9 @@ Here are some ideas to get you started:
 # 👋 Hey Everyone, I'm Saad Nawaz!
 
 🎓 CS Sophomore @ Allegheny College  
-💻 Builder of things that sometimes break (then I fix them)  
 🚀 Interested in Software Engineering, Data Science & Systems  
 
 ---
-
-## 🌐 Socials:
 
 ## 🌐 Socials:
 
@@ -69,4 +66,4 @@ Here are some ideas to get you started:
 
 ## ✨ Fun Fact:
 
-⚡ I love building projects that mix code, creativity, and real-world impact.
+⚡ Fun fact: My code works perfectly… right after the 5th attempt.
