@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](www.linkedin.com/in/saad-nawaz-56a7a7394)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram)](https://instagram.com)
 [![Discord](https://img.shields.io/badge/Discord-purple?style=flat&logo=discord)](#)
 
