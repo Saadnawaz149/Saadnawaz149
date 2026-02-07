@@ -34,13 +34,18 @@ Here are some ideas to get you started:
 
 ## 💻 Tech Stack:
 
-![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
-![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git)
-![MySQL](https://img.shields.io/badge/MySQL-lightblue?style=flat&logo=mysql)
+![C](https://img.shields.io/badge/C-blue?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=flat&logo=cplusplus)
-
+![HTML](https://img.shields.io/badge/HTML-orange?style=flat&logo=html5)
+![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
+![Java](https://img.shields.io/badge/Java-red?style=flat&logo=openjdk)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=flat&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=flat&logo=jupyter)
+![Pandas](https://img.shields.io/badge/Pandas-purple?style=flat&logo=pandas)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=flat&logo=scikitlearn)
+![OpenCV](https://img.shields.io/badge/OpenCV-blue?style=flat&logo=opencv)
 ---
 
 ## 📊 GitHub Stats:
