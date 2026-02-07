@@ -50,16 +50,21 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats:
 
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saadnawaz149&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saadnawaz149&show_icons=true&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Saadnawaz149&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Saadnawaz149&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🚀 Most Used Languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saadnawaz149&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadnawaz149&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ## ✨ Fun Fact:
