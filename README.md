@@ -45,25 +45,6 @@ Here are some ideas to get you started:
 ![OpenCV](https://img.shields.io/badge/OpenCV-blue?style=flat&logo=opencv)
 ---
 
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saadnawaz149&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Saadnawaz149&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Most Used Languages:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadnawaz149&layout=compact&theme=tokyonight" />
-</p>
----
-
 ## ✨ Fun Fact:
 
 ⚡ Fun fact: My code works perfectly… right after the 5th attempt.
