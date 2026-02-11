@@ -42,6 +42,10 @@ Here are some ideas to get you started:
 ![Pandas](https://img.shields.io/badge/Pandas-purple?style=flat&logo=pandas)
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=flat&logo=scikitlearn)
 ![OpenCV](https://img.shields.io/badge/OpenCV-blue?style=flat&logo=opencv)
+![Java](https://img.shields.io/badge/Java-red?style=flat&logo=openjdk)
+![HTML](https://img.shields.io/badge/HTML-orange?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white)
+
 ---
 
 ## ✨ Fun Fact:
