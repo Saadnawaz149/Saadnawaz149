@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hey Everyone, I'm Saad Nawaz!
 
-🎓 CS Sophomore @ Allegheny College  
+🎓 CS Junior @ Allegheny College  
 🚀 Interested in Software Engineering, Data Science & Systems  
 
 ---
